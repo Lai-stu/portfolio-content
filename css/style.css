@@ -273,7 +273,8 @@ button#play, button#pause, button#slower, button#faster, button#mute{
 
 	#index {
 	background-image: none;  
-	background: linear-gradient(90deg, #1c1a1c, #024559); 
+	background:black;
+/* 	background: linear-gradient(90deg, #1c1a1c, #024559);  */
 	color:LightGray;
 	}
 
